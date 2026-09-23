@@ -2,7 +2,8 @@ body {
     margin: 0px;
     border: 0px;
     font-family: sans-serif;
-    background-color: rgb(201, 192, 192);
+    background-color: rgba(163, 159, 159, 0.699);
+    box-sizing: border-box;
 }
 
 header {
@@ -18,8 +19,17 @@ header {
 
 
 .contenitore {
-    border: solid 4px;
-    border-color: black;
+    border: solid 2px;
+    border-radius: 10px;
+    border-color: rgb(153, 152, 152);
     padding: 10px;
     margin: 50px;
+    background-color: white;
+    width: 300px;
+    text-align: center;
+    
+}
+
+img { 
+    width: 20%;   
 }

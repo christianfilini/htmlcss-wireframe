@@ -25,11 +25,34 @@ header {
     padding: 10px;
     margin: 50px;
     background-color: white;
-    width: 300px;
-    text-align: center;
+    width: px;
+    text-align: left;
     
 }
 
 img { 
-    width: 20%;   
+    width: 10%;       
+}
+
+.nomeutente {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+
+#ridotto {
+    height: 80px;
+    width: 60px;
+
+}
+
+footer {
+     font-size: 15px;
+    text-align: center;
+    background-color: #274a97;
+    padding: 20px;
+    border:solid 1px;
+    border-radius:  15px 15px 0px 0px;
+    border-color:  #274a97;
+    color: white;
 }

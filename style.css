@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    border: 0;
+    
+}
+
+.contenitore {
+    border: solid 4px;
+    border-color: black;
+    padding: 10px;
+    margin: 50px;
+}

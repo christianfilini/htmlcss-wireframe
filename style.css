@@ -11,9 +11,9 @@ header {
     text-align: center;
     background-color: #274a97;
     padding: 20px;
-    border:solid 1px;
+    border: solid 1px;
     border-radius: 0px 0px 15px 15px;
-    border-color:  #274a97;
+    border-color: #274a97;
     color: white;
 }
 
@@ -23,15 +23,18 @@ header {
     border-radius: 10px;
     border-color: rgb(153, 152, 152);
     padding: 10px;
-    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
     background-color: white;
-    width: px;
+    width: 400px;
     text-align: left;
-    
+
 }
 
-img { 
-    width: 10%;       
+img {
+    width: 10%;
 }
 
 .nomeutente {
@@ -41,17 +44,17 @@ img {
 
 
 #ridotto {
-   
+
     width: 7%;
 }
 
 footer {
-     font-size: 15px;
+    font-size: 15px;
     text-align: center;
     background-color: #274a97;
     padding: 20px;
-    border:solid 1px;
-    border-radius:  15px 15px 0px 0px;
-    border-color:  #274a97;
+    border: solid 1px;
+    border-radius: 15px 15px 0px 0px;
+    border-color: #274a97;
     color: white;
 }
